@@ -1,0 +1,9 @@
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\disconnectedModeActivite3bis\disconnectedModeActivite3bis\bin\Debug\disconnectedModeActivite3bis.exe.config
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\disconnectedModeActivite3bis\disconnectedModeActivite3bis\bin\Debug\disconnectedModeActivite3bis.exe
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\disconnectedModeActivite3bis\disconnectedModeActivite3bis\bin\Debug\disconnectedModeActivite3bis.pdb
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\disconnectedModeActivite3bis\disconnectedModeActivite3bis\obj\Debug\disconnectedModeActivite3bis.csprojResolveAssemblyReference.cache
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\disconnectedModeActivite3bis\disconnectedModeActivite3bis\obj\Debug\disconnectedModeActivite3bis.Form1.resources
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\disconnectedModeActivite3bis\disconnectedModeActivite3bis\obj\Debug\disconnectedModeActivite3bis.Properties.Resources.resources
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\disconnectedModeActivite3bis\disconnectedModeActivite3bis\obj\Debug\disconnectedModeActivite3bis.csproj.GenerateResource.Cache
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\disconnectedModeActivite3bis\disconnectedModeActivite3bis\obj\Debug\disconnectedModeActivite3bis.exe
+C:\Users\YAZIDI\Desktop\Projets CDS 2022\disconnectedModeActivite3bis\disconnectedModeActivite3bis\obj\Debug\disconnectedModeActivite3bis.pdb
